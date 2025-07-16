@@ -24,10 +24,9 @@ This project is inspired by GFG factorial of lage number , where handling large 
 ### 🔧 Setup Instructions
 
 1. Clone the repository or download the files.
-2. Setup the node js in your system
+2. Set up js in your system
 3. Navigate to the 'factorial_web' folder in your system
-4. Open comand prompt
-5. Run  'npm install tailwindcss @tailwindcss/cli' #Install Tailwind CLI and other dependencies 
+4. Open comand prompt 
 6. Run this 'tailwind -npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watc'  #Start the Tailwind watcher to compile CSS from input.css to output.css:
 7. Open `index.html` in your browser.
 8. Enter a number and click "Calculate Factorial".
